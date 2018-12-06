@@ -1,4 +1,6 @@
-﻿# How to use
+﻿[![Build status](https://ci.appveyor.com/api/projects/status/hveec4mfiuincmaf?svg=true)](https://ci.appveyor.com/project/excitoon/bazel-win32-toolchain-test)
+
+# How to use
 
 ## 32-bit
 
